@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Humai. Welcome to my ~~~not-so~~~ ordinary projects :).
+- 👋 Hi, I’m Humai. Welcome to my ~~not-so~~ ordinary projects :).
 
 
 <!---
