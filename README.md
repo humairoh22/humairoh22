@@ -1,4 +1,10 @@
-- 👋👋 Hi, I’m Humai. A data analyst associate in a pharmaceuticals distributor. Welcome to my ~~not-so~~ ordinary projects 👀.
+
+# 👋 Hi, I' Humairoh ✨. Welcome to my ~~not-so~~ ordinary repositories 👀
+
+**Data Analyst | ETL/ELT Pipeline Developer | Supply Chain Analytics**
+
+🔧 **Tech Stack:** Python • SQL • dbt • Luigi • Docker • Power BI • Excel  
+📊 **Experience:** 2+ years in supply chain operations & data pipeline development  
 
 
 <!---
