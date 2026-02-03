@@ -8,11 +8,11 @@ A data analyst with a passion building reliable data pipeline and transforming m
 
 ### 🛠️ Tech Stack
 
-🐍 **Languages:** Python, SQL 
-🛠 **Data Engineering:** Luigi, dbt (learning), Airflow (learning)
-🐬 **Data Analysis:** Pandas, NumPy, Jupyter Notebook
-📊 **Visual & BI:** Power BI, Excel
-🐳 **Dev Tools:** Docker, Git
+🐍 **Languages:** Python, SQL <br>
+🛠 **Data Engineering:** Luigi, dbt (learning), Airflow (learning) <br>
+🐬 **Data Analysis:** Pandas, NumPy, Jupyter Notebook <br>
+📊 **Visual & BI:** Power BI, Excel <br>
+🐳 **Dev Tools:** Docker, Git <br>
 🗃 **Databases:** PostgreSQL, MySQL
 
 ### 📁 Featured Projects
