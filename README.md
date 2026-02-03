@@ -1,12 +1,15 @@
 ## Hi, There 👋
 
 I'm Humairoh ✨ <br>
-**Data Analyst | ETL/ELT Pipeline Developer | Supply Chain Analytics**
+Data Analyst | Data Engineer | Supply Chain Analytics
+
 
 ### Little Things About Me
-A data analyst with a passion building reliable data pipeline and transforming messy data to support decision-making
+A data analyst with hands-on experience building ETL/ELT pipelines, transforming messy data and delivering insights for 
+supply chain and logistics teams.
 
 ### 🛠️ Tech Stack
+Here are tech stack I used in my current role. <br>
 
 🐍 **Languages:** Python, SQL <br>
 🛠 **Data Engineering:** Luigi, dbt (learning), Airflow (learning) <br>
@@ -22,8 +25,6 @@ Here are some repositories I’m proud of:
 - **etl-with-luigi** — Simple ETL pipeline demo with Luigi 💡  
 - **demo-elt-pipeline** — using ELT approach for handling data delivery
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humairoh22&show_icons=true&theme=default)
 
 ### 📫 Get In Touch
 💼 LinkedIn: https://linkedin.com/in/humairohtanjung
