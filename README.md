@@ -22,6 +22,9 @@ Here are some repositories I’m proud of:
 - **etl-with-luigi** — Simple ETL pipeline demo with Luigi 💡  
 - **demo-elt-pipeline** — using ELT approach for handling data delivery
 
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humairoh22&show_icons=true&theme=default)
+
 ### 📫 Get In Touch
 💼 LinkedIn: https://linkedin.com/in/humairohtanjung
 
