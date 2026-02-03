@@ -1,5 +1,4 @@
-
-# 👋 Hi, I' Humairoh ✨. Welcome to my ~~not-so~~ ordinary repositories 👀
+👋 Hi, I' Humairoh ✨. Welcome to my ~~not-so~~ ordinary repositories 👀
 
 **Data Analyst | ETL/ELT Pipeline Developer | Supply Chain Analytics**
 
